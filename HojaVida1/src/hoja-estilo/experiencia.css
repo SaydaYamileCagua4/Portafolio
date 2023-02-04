@@ -1,0 +1,96 @@
+.card-title {
+  font-family: 'Mea Culpa', cursive;  
+  color:rgb(224, 66, 216); 
+  font-size: 40px; 
+}
+
+.card-body{
+  padding: 5%;
+}
+.contenedor-experiencia{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  font-family: Lato,sans-serif;
+}
+
+.contenedor-experiencia .texto-experiencia {
+  display: flex;
+  text-align: justify;
+  padding: 5px;
+  font-family: Lato,sans-serif;
+
+}
+.contenedor-experiencia .nombre-experiencia{
+  font-family: 'Lora', serif;
+  color:rgb(124, 2, 118); 
+  font-size: 25px;   
+}
+
+.contenedor-experiencia .cargo-experiencia{   
+  display: flex;
+  font-family: 'Lobster', cursive;
+  color:rgb(29, 57, 180);  
+  font-size: 20px;  
+  text-align: left;
+}
+.contenedor-experiencia .texto-experiencia{
+  display: flex;
+  align-items: justify;
+  justify-content: justify;
+}
+
+a{
+  color: rgb(6, 232, 248);
+  text-decoration: none ;
+  font-family: 'Mea Culpa', cursive;
+  font-size: 2rem; 
+  }
+a:hover{
+  color:rgb(224, 66, 216); 
+}
+
+th{
+  text-align: center; 
+  font-family: 'Lora', serif;
+  color:rgb(124, 2, 118); 
+}
+
+tr:nth-child(even){
+  background-color: rgb(255, 246, 254); 
+  color: black;
+  text-align: left;
+}
+
+tr:nth-child(odd){
+  background-color: rgb(223, 242, 255);
+  color: black;
+  text-align: left;
+}
+
+tr:hover {
+  background-color: rgb(255, 187, 249);
+  cursor:pointer;
+}
+
+.btn-primary{
+  background-color:rgb(224, 66, 216); 
+  color:rgb(255, 255, 255);     
+  font-family: 'Lobster', cursive;
+  font-size: 20px; 
+  border: 2px rgb(187, 25, 160) outset;
+  border-radius:25%;   
+}
+
+.btn-primary:hover{
+  background-color:rgb(66, 148, 224); 
+  color:rgb(255, 255, 255);     
+  font-family: 'Lobster', cursive;
+  font-size: 20px; 
+  border: 2px rgb(46, 141, 230) outset;
+  border-radius:25%;     
+}
+
+  

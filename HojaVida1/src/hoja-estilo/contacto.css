@@ -1,0 +1,41 @@
+.card-body h1{
+    color:rgb(29, 57, 180);
+    text-align:center;  
+    font-size: 25px;    
+    font-family: 'Lobster', cursive;
+    background-color: rgba(149, 221, 255, 0.8);    
+} 
+.card-body p{
+    color:rgb(116, 115, 115);
+    text-align:center;  
+    font-size: 25px;    
+    font-family: 'Lobster', cursive;    
+}
+
+.datos h1{
+    color:rgb(29, 57, 180);
+}           
+
+form {
+    font-family: 'Lobster', cursive;
+    color:rgb(29, 57, 180);     
+    font-size: 22px;
+    background-color: rgba(149, 221, 255, 0.8);
+}           
+
+    button {
+        background-color:rgb(224, 66, 216); 
+    color:rgb(255, 255, 255);    
+    font-size: 25px; 
+    border: 2px rgb(187, 25, 160) outset;
+    border-radius:25%;   
+}
+
+button:hover{
+    background-color:rgb(66, 148, 224);
+    font-family: 'Lobster', cursive; 
+    color:rgb(255, 255, 255);     
+    font-size: 25px; 
+    border: 2px rgb(46, 141, 230) outset;
+    border-radius:25%;     
+}
