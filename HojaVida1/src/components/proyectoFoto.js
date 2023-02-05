@@ -4,7 +4,7 @@ import Button from 'react-bootstrap/Button';
 import '../hoja-estilo/proyecto.css';
 import Proyecto from './proyecto';
 
-function ProyectoProgramacion() {
+function ProyectoFoto() {
 
 
   return (
@@ -101,4 +101,4 @@ function ProyectoProgramacion() {
     </> 
   );
 }
-  export default ProyectoProgramacion;
+  export default ProyectoFoto;
