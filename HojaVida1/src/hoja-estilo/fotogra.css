@@ -5,17 +5,17 @@
 .contenedor-foto .titulo-foto {
     text-align: center;
     padding: 5px;
-    margin: 2%;
+    margin: 0 40%;
     font-family: 'Mea Culpa', cursive;
     background-color: rgba(255, 255, 255, 0.5);
-    border-radius: 15px;  
+    border-radius: 50px;  
     color:rgb(224, 66, 216); 
     font-size: 30px; 
     }
 
 .contenedor-foto .texto-foto {
         background-color:  rgba(255, 255, 255, 0.5);
-        border-radius: 15px;
+        border-radius: 50px;
         font-family: 'Mea Culpa', cursive;  
         color:rgb(7, 7, 7); 
         font-size: 30px; 
@@ -25,3 +25,32 @@
     width: 50rem;
     border-radius: 5%;
 }   
+
+
+.cont-foto {
+    padding: 10px;
+    text-align: center;
+}
+.cont-foto .titulo-foto {
+    text-align: center;
+    padding: 5px;
+    margin: 0 40%;
+    font-family: 'Mea Culpa', cursive;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 50px;  
+    color:rgb(224, 66, 216); 
+    font-size: 30px; 
+    }
+
+.cont-foto .texto-foto {
+        background-color:  rgba(255, 255, 255, 0.5);
+        border-radius: 50px;
+        font-family: 'Mea Culpa', cursive;  
+        color:rgb(7, 7, 7); 
+        font-size: 30px; 
+        }
+.cont-foto .imagen-foto{
+    height: 30rem;
+    width: 20rem;
+    border-radius: 5%;
+}       
