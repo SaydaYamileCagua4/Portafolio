@@ -41,9 +41,7 @@ export default class Contacto extends Component {
           </form>
           </Card.Body>
         </Card>
-       
-     
-        </CardGroup>
+      </CardGroup>
     );
   } 
 }
