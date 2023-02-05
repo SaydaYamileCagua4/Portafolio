@@ -61,7 +61,7 @@ function ProyectoProgramacion() {
           <Proyecto 
           titulo='Otros Proyectos'
           nombre='Studio Cagua'
-          centro='Presentado'
+          centro='Presentado CIDE'
           objetivo='Dar a comocer mi trabajo fotografico y audiovisual'
           fecha='Fecha: 05 Junio 2022'
           imagen='naturaleza'/>
