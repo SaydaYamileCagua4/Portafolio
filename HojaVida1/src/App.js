@@ -37,7 +37,7 @@ function App() {
                 alt="Logo"
                 src="/Logo_Studio_Cagua.png"
                 width="200"
-                height="150"
+                height="100"
                 className="d-inline-block align-top"
                 />          
             </Link>
@@ -140,7 +140,7 @@ function App() {
           alt="Logo"
           src="/Logo_Studio_Cagua.png"
           width="200"
-          height="150"
+          height="100"
           className="d-inline-block align-top"
         />        
           
