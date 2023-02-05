@@ -94,6 +94,11 @@ function MiPerfil() {
         <td>Diplomado de Aplicaciones Web</td>
         <Button variant="primary" onClick={ () => abrirModal('certificados/02.DesarrolloWeb')}>VER</Button>     
         </tr>
+
+        <tr>
+        <td>Programa de formación general en habilidades de programación con énfasis en Desarrollo Web </td>
+        <Button variant="primary" onClick={ () => abrirModal('certificados/02.GeneralDesarrolloWeb')}>VER</Button>     
+        </tr>
       </tbody>
     </Table>
   </Accordion.Body>
