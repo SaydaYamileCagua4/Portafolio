@@ -1,4 +1,4 @@
-.navbar    {
+.navbar {
   background-image:url("https://i.pinimg.com/564x/14/2a/f1/142af14692fbe7e72c0fe3ff680a5fbe.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -29,7 +29,7 @@ body h3 {
 }
 
 
-a.dropdown-item{
+a.dropdown-item {
   background-color: rgb(238, 248, 255);
 } 
 
@@ -47,15 +47,13 @@ a.dropdown-item:hover {
 
 footer {
 
-  color:rgb(51, 197, 129);
-  background-image: url("https://i.pinimg.com/564x/81/8e/09/818e09bb846221656a702a7cca406f12.jpg  ");
-  background-repeat: no-repeat; 
-  background-size:cover;
+  color:rgb(5, 20, 13);
+  background: rgb(106,242,255);
+  background: linear-gradient(6deg, rgba(106,242,255,1) 5%, rgba(215,235,255,1) 39%, rgba(254,233,255,1) 65%);  
   font-family: 'Mea Culpa', cursive;
   font-size: 2rem;
   }
   
 small {
-  color:rgb(50, 62, 196);
-  font-family: 'Lobster', cursive;
-  }
+  color:rgb(26, 34, 139);
+   }
