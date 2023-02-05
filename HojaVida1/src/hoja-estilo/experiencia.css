@@ -53,41 +53,45 @@ a:hover{
 }
 
 th{
-  text-align: center; 
+  text-align: center;
   font-family: 'Lora', serif;
   color:rgb(124, 2, 118); 
+} 
+
+td{
+  text-align: left;
+  background-color: rgb(255, 221, 251); 
 }
 
 tr:nth-child(even){
-  background-color: rgb(255, 246, 254); 
-  color: black;
-  text-align: left;
+  background-color: rgb(255, 221, 251); 
+   text-align: left;
 }
 
 tr:nth-child(odd){
+  text-align: left;
   background-color: rgb(223, 242, 255);
-  color: black;
+ }
+
+tr:hover {
+  background-color: rgba(190, 135, 236, 0.5);
+  cursor:pointer;
   text-align: left;
 }
 
-tr:hover {
-  background-color: rgb(255, 187, 249);
-  cursor:pointer;
-}
-
 .btn-primary{
-  background-color:rgb(224, 66, 216); 
-  color:rgb(255, 255, 255);     
+  background-color:rgb(255, 185, 250); 
+  color:rgb(32, 32, 32);     
   font-family: 'Lobster', cursive;
   font-size: 20px; 
-  border: 2px rgb(187, 25, 160) outset;
+  border: 2px rgb(243, 157, 229) outset;
   border-radius:25%;   
 }
 
 .btn-primary:hover{
   background-color:rgb(66, 148, 224); 
-  color:rgb(255, 255, 255);     
   font-family: 'Lobster', cursive;
+  color:rgb(255, 253, 255);  
   font-size: 20px; 
   border: 2px rgb(46, 141, 230) outset;
   border-radius:25%;     
